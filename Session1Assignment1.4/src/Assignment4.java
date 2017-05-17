@@ -3,9 +3,9 @@ public class Assignment4 {
 
 	public static void main(String[] args) {
 		char a; 
-		
+		//For loop
 		for (int i = 65; i <=90; i++){
-			a = (char)i; 
+			a = (char)i; //type casting 
 			System.out.println(i + "- " + a);
 		}
 
