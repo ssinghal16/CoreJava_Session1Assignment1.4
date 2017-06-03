@@ -1,6 +1,8 @@
 //Write a program to print the characters corresponding to ASCII codes from 65 to 90.
-public class Assignment4 {
 
+//class declaration
+public class Assignment4 {
+	//Main method 
 	public static void main(String[] args) {
 		char a; 
 		//For loop
